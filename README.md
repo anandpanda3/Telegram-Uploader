@@ -15,5 +15,4 @@ Will be enough if you have the [go toolchain](https://golang.org/doc/install) in
 ```bash
 ./go-telegram-uploader --chat=your_chat_id --folder=/your/folder --token=your_bot_token 
 ```
-## Precompiled binaries
-If you trust on this repo, you can download latest binaries from the current or previous [releases](https://github.com/eloylp/go-telegram-uploader/releases)
+
