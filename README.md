@@ -1,6 +1,6 @@
 # Go telegram uploader
 
-Upload your media , videos or pictures syncing a folder in your system with your telegram bot.
+Uploads your media , videos or pictures syncing a folder in your system with your telegram bot.
 It will detect file creation.
 
 ## How to build
